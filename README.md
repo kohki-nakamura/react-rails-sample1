@@ -23,3 +23,9 @@ Things you may want to cover:
 
 * ...
 # react-rails-sample1
+-  railsにreactを導入する練習
+
+### 以下のページを参考に作成
+- https://github.com/reactjs/react-rails#get-started-with-webpacker
+- https://qiita.com/gotchane/items/6027cc07d757e64bd8bc
+
